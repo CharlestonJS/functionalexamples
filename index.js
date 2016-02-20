@@ -25,7 +25,7 @@ console.log(isCapitalSlow("Denver")); // false
 
 
 // precomputation with meomization
-// precomputation is one important way to amortize the costs of computation in F#.  Another is called memoization.
+// precomputation is one important way to amortize the costs of computation.  Another is called memoization.
 // A memozing function avoids recomputating its reults by keeping an internal table, often called a looked aside table.
 var fibonacciFast = function(n) {
   var lookasideTable = {};
