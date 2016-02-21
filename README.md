@@ -17,3 +17,19 @@ Worth Watching
 
 FrontEnd Masters - Hardcore Functional Javascript
 * https://frontendmasters.com/courses/functional-javascript/
+
+JavaScript Functional Specification
+
+* https://github.com/fantasyland/fantasy-land
+
+JavaScript Functional Libraries
+
+* http://ramdajs.com/0.19.1/index.html
+* https://github.com/DrBoolean/pointfree-fantasy
+* https://github.com/cujojs/most
+* https://github.com/ramda/ramda-fantasy
+* https://github.com/plaid/sanctuary
+
+Misc
+
+* http://rxmarbles.com/
