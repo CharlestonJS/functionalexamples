@@ -15,7 +15,7 @@ Worth Watching
 * Class Room Coding ep 2 - https://youtu.be/oZ6C9h49bu8
 * Class Room Coding ep 3 - https://youtu.be/mMCgJA8HScA
 
-FrontEnd Masters - Hardcore Functional Javascript
+FrontEnd Masters - Hardcore Functional Javascript *** [requires membership]
 * https://frontendmasters.com/courses/functional-javascript/
 
 JavaScript Functional Specification
