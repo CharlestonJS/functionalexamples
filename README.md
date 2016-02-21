@@ -9,3 +9,11 @@ More Reading
 * http://blog.jenkster.com/2015/12/what-is-functional-programming.html
 * http://blog.jenkster.com/2015/12/which-programming-languages-are-functional.html
 * https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf
+
+Worth Watching
+* Class Room Coding ep 1 - https://youtu.be/h_tkIpwbsxY
+* Class Room Coding ep 2 - https://youtu.be/oZ6C9h49bu8
+* Class Room Coding ep 3 - https://youtu.be/mMCgJA8HScA
+
+FrontEnd Masters - Hardcore Functional Javascript
+* https://frontendmasters.com/courses/functional-javascript/
